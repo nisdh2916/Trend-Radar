@@ -7,7 +7,7 @@
 ### 1. [obra/superpowers](https://github.com/obra/superpowers)
 
 - Score: 7209.2
-- Stars: 226,047 (918.9/day since creation)
+- Stars: 226,054 (918.9/day since creation)
 - Forks: 20,092
 - Language: Shell
 - Created: 2025-10-09
@@ -20,8 +20,8 @@
 ### 2. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 - Score: 7194.8
-- Stars: 56,869 (486.1/day since creation)
-- Forks: 6,130
+- Stars: 56,876 (486.1/day since creation)
+- Forks: 6,131
 - Language: Shell
 - Created: 2026-02-15
 - Last push: 2026-06-11
@@ -46,8 +46,8 @@
 ### 4. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
 - Score: 7141.8
-- Stars: 214,347 (1468.1/day since creation)
-- Forks: 32,938
+- Stars: 214,348 (1468.1/day since creation)
+- Forks: 32,939
 - Language: JavaScript
 - Created: 2026-01-18
 - Last push: 2026-06-11
@@ -60,7 +60,7 @@
 
 - Score: 7134.6
 - Stars: 42,331 (276.7/day since creation)
-- Forks: 40,106
+- Forks: 40,105
 - Language: Python
 - Created: 2026-01-10
 - Last push: 2026-06-12
@@ -85,7 +85,7 @@
 ### 7. [santifer/career-ops](https://github.com/santifer/career-ops)
 
 - Score: 7128.1
-- Stars: 53,237 (771.6/day since creation)
+- Stars: 53,242 (771.6/day since creation)
 - Forks: 10,630
 - Language: JavaScript
 - Created: 2026-04-04
@@ -98,8 +98,8 @@
 ### 8. [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 
 - Score: 7126.9
-- Stars: 69,382 (5781.8/day since creation)
-- Forks: 8,759
+- Stars: 69,386 (5782.2/day since creation)
+- Forks: 8,758
 - Language: Python
 - Created: 2026-05-31
 - Last push: 2026-06-12
@@ -111,8 +111,8 @@
 ### 9. [safishamsi/graphify](https://github.com/safishamsi/graphify)
 
 - Score: 7126.0
-- Stars: 66,322 (947.5/day since creation)
-- Forks: 6,709
+- Stars: 66,325 (947.5/day since creation)
+- Forks: 6,710
 - Language: Python
 - Created: 2026-04-03
 - Last push: 2026-06-12
