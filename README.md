@@ -11,6 +11,7 @@
 - 별도 DB 없이 현재 시점의 stars, repo age, forks, 최근 push를 조합해 "rising score"를 계산합니다.
 - `reports/latest.md`와 날짜별 리포트를 커밋합니다.
 - GitHub Issue를 생성해서 GitHub 모바일 앱에서 확인할 수 있게 합니다.
+- 같은 날짜 Issue가 이미 열려 있으면 중복 Issue 생성을 건너뜁니다.
 
 ## 빠른 시작
 

@@ -336,6 +336,10 @@ def render_report(candidates: list[Candidate], warnings: list[str], max_repos: i
 
 
 def create_issue(token: str, repo_name: str, title: str, body: str) -> None:
+    if issue_exists(token, repo_name, title):
+        print(f"Skipping issue creation: open issue already exists for {title}.")
+        return
+
     payload = json.dumps({"title": title, "body": body}).encode("utf-8")
     headers = {
         "Accept": "application/vnd.github+json",
@@ -353,6 +357,15 @@ def create_issue(token: str, repo_name: str, title: str, body: str) -> None:
     with urllib.request.urlopen(req, timeout=30) as res:
         if res.status not in (200, 201):
             raise RuntimeError(f"Unexpected issue response: {res.status}")
+
+
+def issue_exists(token: str, repo_name: str, title: str) -> bool:
+    encoded_repo = urllib.parse.quote(repo_name, safe="/")
+    issues = github_request(f"/repos/{encoded_repo}/issues?state=open&per_page=100", token)
+    for issue in issues:
+        if "pull_request" not in issue and issue.get("title") == title:
+            return True
+    return False
 
 
 def main() -> int:
