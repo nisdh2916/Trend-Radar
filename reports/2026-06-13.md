@@ -7,8 +7,8 @@
 ### 1. [obra/superpowers](https://github.com/obra/superpowers)
 
 - Score: 7209.2
-- Stars: 226,054 (918.9/day since creation)
-- Forks: 20,092
+- Stars: 226,056 (918.9/day since creation)
+- Forks: 20,093
 - Language: Shell
 - Created: 2025-10-09
 - Last push: 2026-06-12
@@ -20,8 +20,8 @@
 ### 2. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
 
 - Score: 7194.8
-- Stars: 56,876 (486.1/day since creation)
-- Forks: 6,131
+- Stars: 56,880 (486.2/day since creation)
+- Forks: 6,133
 - Language: Shell
 - Created: 2026-02-15
 - Last push: 2026-06-11
@@ -60,7 +60,7 @@
 
 - Score: 7134.6
 - Stars: 42,331 (276.7/day since creation)
-- Forks: 40,105
+- Forks: 40,106
 - Language: Python
 - Created: 2026-01-10
 - Last push: 2026-06-12
@@ -72,7 +72,7 @@
 ### 6. [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md)
 
 - Score: 7128.9
-- Stars: 89,813 (1230.3/day since creation)
+- Stars: 89,814 (1230.3/day since creation)
 - Forks: 10,687
 - Language: Unknown
 - Created: 2026-03-31
@@ -85,8 +85,8 @@
 ### 7. [santifer/career-ops](https://github.com/santifer/career-ops)
 
 - Score: 7128.1
-- Stars: 53,242 (771.6/day since creation)
-- Forks: 10,630
+- Stars: 53,244 (771.7/day since creation)
+- Forks: 10,631
 - Language: JavaScript
 - Created: 2026-04-04
 - Last push: 2026-06-12
@@ -98,7 +98,7 @@
 ### 8. [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
 
 - Score: 7126.9
-- Stars: 69,386 (5782.2/day since creation)
+- Stars: 69,387 (5782.2/day since creation)
 - Forks: 8,758
 - Language: Python
 - Created: 2026-05-31
@@ -125,7 +125,7 @@
 
 - Score: 7125.9
 - Stars: 19,896 (272.5/day since creation)
-- Forks: 16,161
+- Forks: 16,162
 - Language: TypeScript
 - Created: 2026-03-31
 - Last push: 2026-06-12
